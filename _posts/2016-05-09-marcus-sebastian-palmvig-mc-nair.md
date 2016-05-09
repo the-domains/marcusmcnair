@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Marcus Sebastian Palmvig Mc Nair
-datePublished: '2016-05-09T00:24:15.141Z'
-dateModified: '2016-05-09T00:23:55.346Z'
+description: Marcus Mc Nair
+datePublished: '2016-05-09T00:29:00.545Z'
+dateModified: '2016-05-09T00:28:43.606Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-marcus-sebastian-palmvig-mc-nair.md
@@ -21,25 +21,5 @@ url: marcus-sebastian-palmvig-mc-nair/index.html
 _type: Article
 
 ---
-[Marcus Sebastian Palmvig Mc Nair][0]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45ae4e0-5130-4437-8fa9-71621519e817.jpg)
-
-Freelance film worker with a profound interest in Film and TV
-
-production and a solid experienced background working for large
-
-danish production-agencies such as Nordic Film TV, Made In
-
-Valby and Respirator Media & Development. I am currently a
-
-student at Sir John Cass Faculty of art, studying Film &
-
-Broadcast Production.
-
-Further more I've had the pleasure of bringing small personal
-
-projekts such as shortmovies, commercials and music videos to
-
-life in cooperation with other freelance film and TV workers.
-
-[0]: null
+Marcus Mc Nair
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e51d46-05c9-43c1-88e2-69a9a0775412.jpg)
