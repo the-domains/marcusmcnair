@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Marcus Sebastian Palmvig Mc Nair
-datePublished: '2016-05-09T00:21:29.751Z'
-dateModified: '2016-05-09T00:21:19.551Z'
+datePublished: '2016-05-09T00:23:54.434Z'
+dateModified: '2016-05-09T00:23:42.545Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-marcus-sebastian-palmvig-mc-nair.md
@@ -22,6 +22,7 @@ _type: Article
 
 ---
 [Marcus Sebastian Palmvig Mc Nair][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45ae4e0-5130-4437-8fa9-71621519e817.jpg)
 
 Freelance film worker with a profound interest in Film and TV
 
@@ -40,7 +41,5 @@ Further more I've had the pleasure of bringing small personal
 projekts such as shortmovies, commercials and music videos to
 
 life in cooperation with other freelance film and TV workers.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c45ae4e0-5130-4437-8fa9-71621519e817.jpg)
-
 
 [0]: null
