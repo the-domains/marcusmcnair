@@ -1,7 +1,7 @@
 name: MarcusMcnair
 favicon: null
-layout_spectrum: 0.6929316057357937
-typography_spectrum: 0.4889153118710965
+layout_spectrum: 0.24478
+typography_spectrum: 0.23465
 title: MMMedia
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.18133376352488995
-  lightness: 0.33754291851073503
+    - '#000000'
+    - '#f1f1f1'
+    - '#afafaf'
+    - '#8f8f8f'
+    - '#1e1e1e'
+  brandStrength: 0.5
+  lightness: 0.4375
   saturation: 0.8901838085148484
-  rhythmicContrast: 0.0832400566432625
+  rhythmicContrast: 0.75
 purpose: []
