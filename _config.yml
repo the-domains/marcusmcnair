@@ -1,4 +1,4 @@
-name: MarcusMcnair
+name: Marcus Sebastian P. Mc Nair
 favicon: null
 layout_spectrum: 0.70673
 typography_spectrum: 0.23465
@@ -22,7 +22,7 @@ color:
     - '#afafaf'
     - '#8f8f8f'
     - '#1e1e1e'
-  brandStrength: 1
+  brandStrength: 0.8125
   lightness: 0.5
   saturation: 0.75
   rhythmicContrast: 0.5
