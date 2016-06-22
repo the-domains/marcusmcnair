@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MMMedia]]></title>
-        <description><![CDATA[MMMedia]]></description>
+        <title><![CDATA[MM-MEDIA]]></title>
+        <description><![CDATA[MM-MEDIA]]></description>
         <link>https://thegrid.ai/marcusmcnair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 07:04:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 15:51:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcusmcnair/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>photographs by marcus mc nair</p>]]></description>
-            <link>https://thegrid.ai/marcusmcnair/media/index.html</link>
-            <guid isPermaLink="false">bff5444d-7a6f-4601-add9-b3d1e0bfa9b0</guid>
-            <pubDate>Wed, 22 Jun 2016 07:02:20 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e51d46-05c9-43c1-88e2-69a9a0775412.jpg">]]></description>
