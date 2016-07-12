@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: photographs by marcus mc nair
-datePublished: '2016-07-12T13:25:14.703Z'
-dateModified: '2016-07-12T13:24:47.092Z'
+datePublished: '2016-07-12T18:34:40.745Z'
+dateModified: '2016-07-12T18:31:34.275Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-12-photographs-by-marcus-mc-nair.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-12-photographs-by-marcus-mc-nair.md
+starred: true
 url: photographs-by-marcus-mc-nair/index.html
 _type: Article
 
