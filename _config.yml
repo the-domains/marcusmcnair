@@ -1,7 +1,7 @@
 name: Marcus Sebastian P. Mc Nair
 favicon: null
-layout_spectrum: 0.70673
-typography_spectrum: 0.23465
+layout_spectrum: 0.93646
+typography_spectrum: 0
 title: MM-MEDIA
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#afafaf'
     - '#8f8f8f'
     - '#1e1e1e'
-  brandStrength: 0.8125
-  lightness: 0.5
-  saturation: 0.75
+  brandStrength: 0.75
+  lightness: 0.5625
+  saturation: 0.6875
   rhythmicContrast: 0.5
 purpose: []
