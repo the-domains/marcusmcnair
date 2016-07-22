@@ -4,8 +4,15 @@
         <description><![CDATA[MM-MEDIA]]></description>
         <link>https://thegrid.ai/marcusmcnair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 15:35:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 15:37:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcusmcnair/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[films by marcus mc nair]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d434222c-8622-4f44-a2b9-c9a2ce5cbdcc.png">]]></description>
+            <link>https://thegrid.ai/marcusmcnair/films-by-marcus-mc-nair/index.html</link>
+            <guid isPermaLink="false">a46c4bad-df77-4f98-b0d3-934030af3f9c</guid>
+            <pubDate>Fri, 22 Jul 2016 15:37:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[about marcus mc nair]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2e51d46-05c9-43c1-88e2-69a9a0775412.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/marcusmcnair/photographs-by-marcus-mc-nair/index.html</link>
             <guid isPermaLink="false">1f4d827c-7aec-41a1-b384-1c5181e62615</guid>
             <pubDate>Fri, 22 Jul 2016 12:14:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[films by marcus mc nair]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd73a35-a2a5-4a29-a1de-e48f9da7b03b.png">]]></description>
-            <link>https://thegrid.ai/marcusmcnair/films-by-marcus-mc-nair/index.html</link>
-            <guid isPermaLink="false">a46c4bad-df77-4f98-b0d3-934030af3f9c</guid>
-            <pubDate>Fri, 22 Jul 2016 12:11:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
