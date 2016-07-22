@@ -5,15 +5,19 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T15:10:16.079Z'
-dateModified: '2016-07-22T15:09:39.512Z'
+datePublished: '2016-07-22T15:35:34.059Z'
+dateModified: '2016-07-22T15:35:33.691Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-marcus-sebastian-palmvig-mc-nair.md
 via: {}
 authors: []
-publisher: {}
-starred: false
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: marcus-sebastian-palmvig-mc-nair/index.html
 _type: Article
 
