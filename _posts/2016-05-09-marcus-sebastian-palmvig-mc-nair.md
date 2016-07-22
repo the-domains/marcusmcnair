@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-22T15:35:34.059Z'
-dateModified: '2016-07-22T15:35:33.691Z'
+datePublished: '2016-07-22T15:40:57.199Z'
+dateModified: '2016-07-22T15:40:55.316Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-marcus-sebastian-palmvig-mc-nair.md
