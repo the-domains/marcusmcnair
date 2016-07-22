@@ -1,23 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: photographs by marcus mc nair
-datePublished: '2016-07-12T18:34:40.745Z'
-dateModified: '2016-07-12T18:31:34.275Z'
+description: ''
+datePublished: '2016-07-22T12:14:01.236Z'
+dateModified: '2016-07-22T12:13:46.988Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-photographs-by-marcus-mc-nair.md
+via: {}
 authors: []
-publisher: null
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 url: photographs-by-marcus-mc-nair/index.html
 _type: Article
 
 ---
-photographs by marcus mc nair
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f4a7e6d-ee29-4fc4-b7e4-adeedbd9beed.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ec0017-6e19-4158-abc5-0c1496ef3f90.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/33f5de1f-4d49-499d-9daa-a3cd0987404f.jpg)
