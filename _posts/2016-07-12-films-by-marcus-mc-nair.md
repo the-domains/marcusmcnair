@@ -5,27 +5,23 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Password Vimeo: mmmedia'
-datePublished: '2016-07-22T12:11:30.392Z'
-dateModified: '2016-07-22T12:11:25.435Z'
+datePublished: '2016-07-22T15:37:21.227Z'
+dateModified: '2016-07-22T15:37:19.085Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-films-by-marcus-mc-nair.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: true
 url: films-by-marcus-mc-nair/index.html
 _type: Article
 
 ---
 Password Vimeo: mmmedia
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fd73a35-a2a5-4a29-a1de-e48f9da7b03b.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d434222c-8622-4f44-a2b9-c9a2ce5cbdcc.png)
 
-**_["The Hen & The Egg" (2016)][0] - "Hønen & Ægget" _******Documentary
+**_["The Hen & The Egg" (2016)][0] - "Hønen & Ægget" _**Documentary
 
 **__**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d465e34-e9d4-4cdd-a465-c293d7287b26.png)
