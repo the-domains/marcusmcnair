@@ -5,15 +5,15 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-25T13:47:05.733Z'
-dateModified: '2016-07-25T13:47:01.536Z'
+datePublished: '2016-07-25T14:38:09.184Z'
+dateModified: '2016-07-25T14:37:58.942Z'
 title: FEATURE FILMS
 author: []
 via: {}
 sourcePath: _posts/2016-07-25-ideas-by-marcus-mc-nair.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: ideas-by-marcus-mc-nair/index.html
 _type: Article
 
@@ -241,8 +241,6 @@ Our main character learns by shoved/forced into unfamiliar situations, caused by
 Start film as if we're about to see an epic story about the good cowboy and the tyrant villain, then reveal this is about the bartender. A passive man who drives his small bar in a small quiet village, where the locals takes advantage of his good nature and friendly attitude.
 
 An unexpected event caused by a girl on the run, throws our main character on to a journey with a train load of situations, unfamiliar to him, that he thought to believe only tales from the occasional Cowboy outsider customer at the bar.
-
-# 
 
 # SHORT FILMS
 
