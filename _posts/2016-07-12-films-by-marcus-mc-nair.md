@@ -5,18 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vimeo password: mmmedia'
-datePublished: '2016-07-25T17:22:06.963Z'
-dateModified: '2016-07-25T17:21:34.985Z'
+datePublished: '2016-07-25T17:24:05.551Z'
+dateModified: '2016-07-25T17:23:57.488Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-films-by-marcus-mc-nair.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: true
 url: films-by-marcus-mc-nair/index.html
 _type: Article
