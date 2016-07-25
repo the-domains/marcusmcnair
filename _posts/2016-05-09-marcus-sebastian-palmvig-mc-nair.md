@@ -5,18 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Highlights of MARCUS MCNAIR '
-datePublished: '2016-07-25T14:33:30.440Z'
-dateModified: '2016-07-25T14:33:29.976Z'
+datePublished: '2016-07-25T14:38:30.386Z'
+dateModified: '2016-07-25T14:38:26.954Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-marcus-sebastian-palmvig-mc-nair.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: true
 url: marcus-sebastian-palmvig-mc-nair/index.html
 _type: Article
@@ -28,4 +24,4 @@ _type: Article
 
 Highlights of MARCUS MCNAIR 
 
-EDUCATION CONTACT INFORMATION
+EXPERIENCE, EDUCATION & CONTACT INFORMATION
