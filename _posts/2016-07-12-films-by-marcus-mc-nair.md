@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vimeo password: mmmedia'
-datePublished: '2016-07-25T17:31:39.530Z'
-dateModified: '2016-07-25T17:31:38.252Z'
+datePublished: '2016-07-25T22:35:40.556Z'
+dateModified: '2016-07-25T22:35:33.808Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-films-by-marcus-mc-nair.md
@@ -53,7 +53,9 @@ _**["Greenwich Observatory" (2015)][4] - **_Portrait of a place
 **_["The Homecoming" (2014)][6]_** - Drama
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc333375-0d9b-4a9a-8084-8d779faed0e1.png)
 
-for more films look in vimeo chanel. password for all films is: mmmedia
+for more films look in [**_vimeo chanel_**][7]
+
+password for all films is: mmmedia
 
 **__**
 
@@ -64,3 +66,4 @@ for more films look in vimeo chanel. password for all films is: mmmedia
 [4]: https://www.youtube.com/watch?v=pZ0Jt7Ni59o
 [5]: https://www.youtube.com/watch?v=otlasYG32pY
 [6]: https://vimeo.com/174427584
+[7]: https://vimeo.com/mspmcnair/videos
