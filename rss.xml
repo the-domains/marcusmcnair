@@ -4,7 +4,7 @@
         <description><![CDATA[MM-MEDIA]]></description>
         <link>https://thegrid.ai/marcusmcnair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 12:03:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 12:03:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/marcusmcnair/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[about marcus mc nair]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/marcusmcnair/photographs-by-marcus-mc-nair/index.html</link>
             <guid isPermaLink="false">1f4d827c-7aec-41a1-b384-1c5181e62615</guid>
             <pubDate>Fri, 22 Jul 2016 12:14:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ideas by marcus mc nair]]></title>
+            <description><![CDATA[<p>Shorts series and concepts</p>]]></description>
+            <link>https://thegrid.ai/marcusmcnair/ideas-by-marcus-mc-nair/index.html</link>
+            <guid isPermaLink="false">bff74216-2776-4898-9fb3-a7cfa6511dcb</guid>
+            <pubDate>Mon, 25 Jul 2016 12:03:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[uni production folder year one]]></title>
