@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Password Vimeo: mmmedia'
-datePublished: '2016-07-25T15:17:40.766Z'
-dateModified: '2016-07-25T15:17:34.828Z'
+description: '"The Hen & the Egg" (2016)- Documentary '
+datePublished: '2016-07-25T15:52:42.137Z'
+dateModified: '2016-07-25T15:52:10.011Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-12-films-by-marcus-mc-nair.md
@@ -22,8 +22,6 @@ url: films-by-marcus-mc-nair/index.html
 _type: Article
 
 ---
-Password Vimeo: mmmedia
-
 **_["The Hen & the Egg" (2016)][0]_**- Documentary
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf78cce2-ff78-401b-912b-d00da3909d5c.png)
 
