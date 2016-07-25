@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-25T16:57:21.760Z'
-dateModified: '2016-07-25T16:57:15.505Z'
-title: FEATURE FILMS
+datePublished: '2016-07-25T17:01:05.999Z'
+dateModified: '2016-07-25T17:01:03.344Z'
+title: ideas by marcus mc nair
 author: []
 via: {}
 sourcePath: _posts/2016-07-25-ideas-by-marcus-mc-nair.md
@@ -18,6 +18,8 @@ url: ideas-by-marcus-mc-nair/index.html
 _type: Article
 
 ---
+# ideas by marcus mc nair
+
 # FEATURE FILMS
 
 ****
